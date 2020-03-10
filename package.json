@@ -1,0 +1,22 @@
+{
+  "name": "alicloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DinosaurCoder/AliCloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DinosaurCoder/AliCloud/issues"
+  },
+  "homepage": "https://github.com/DinosaurCoder/AliCloud#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
